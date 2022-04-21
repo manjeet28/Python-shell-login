@@ -1,2 +1,2 @@
 # Python-shell-login
-simple account creation and lgin in python.
+simple account creation and login in python.
